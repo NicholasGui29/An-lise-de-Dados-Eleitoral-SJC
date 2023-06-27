@@ -1,4 +1,3 @@
-# An-lise-de-Dados-Eleitoral-SJC
 <h1>API de Raspagem de Dados de Eleitorado de São José dos Campos</h1>
 
 <h2>Descrição</h2>
